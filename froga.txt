@@ -1,1 +1,2 @@
 froga fitxategi bat da
+Froga fitxategi honetan aldaketa batzuk egingo ditugu
